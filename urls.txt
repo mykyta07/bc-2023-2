@@ -1,1 +1,2 @@
 http://backend.course#mykyta07
+http://backend.course?name="Mykyta Nykytiuk"&git_name=mykyta07&group="Ð¤ÐµÑ-21Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
