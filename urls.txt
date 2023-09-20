@@ -1,2 +1,3 @@
 http://backend.course#mykyta07
 http://backend.course?name="Mykyta Nykytiuk"&git_name=mykyta07&group="Ð¤ÐµÑ-21Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
+https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=201905&json
